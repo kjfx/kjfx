@@ -1,4 +1,4 @@
-<table style="font-size:1.2em;" width="1000" border="1" align="center" cellpadding="10" cellspacing="0">
+<table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
     <td colspan="4" align="center"><h2>机场导航(精选)</h2></td>
   </tr>
@@ -86,6 +86,6 @@
     YouTube搜索：《科技分享》查看更多翻墙教程。<br></td>
   </tr>
   <tr>
-    <td colspan="4">翻墙软件下载：h<a href="https://github.com/Kejifaxian/welcome/" target="_blank">ttps://github.com/Kejifaxian/welcome/</a></td>
+    <td colspan="4">翻墙软件下载：<a href="https://github.com/Kejifaxian/welcome/" target="_blank">https://github.com/Kejifaxian/welcome/</a></td>
   </tr>
 </table>
