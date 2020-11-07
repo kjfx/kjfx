@@ -85,4 +85,7 @@
     *机场网站有时会更新，请以网站显示信息为准。<br>
     YouTube搜索：《科技分享》查看更多翻墙教程。<br></td>
   </tr>
+  <tr>
+    <td colspan="4">翻墙软件下载：h<a href="https://github.com/Kejifaxian/welcome/" target="_blank">ttps://github.com/Kejifaxian/welcome/</a></td>
+  </tr>
 </table>
