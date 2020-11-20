@@ -11,7 +11,7 @@
   <tr>
     <td>STC</td>
     <td>速度快，稳定</td>
-    <td><a href="https://bit.ly/2Ei5zaQ" target="_blank">https://bit.ly/2Ei5zaQ</a></td>
+    <td><a href="https://mqk4azjxg8skg6gfelpb.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">https://bit.ly/3kGHl9H</a></td>
     <td>SSR和v2Ray</td>
   </tr>
   <tr>
