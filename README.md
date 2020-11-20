@@ -59,7 +59,7 @@
   <tr>
     <td>闪电</td>
     <td>价格低，有免费试用</td>
-    <td><a href="https://bit.ly/3fKRbF0" target="_blank">https://bit.ly/3fKRbF0</a></td>
+    <td><a href="https://freemycloud.me/auth/register?code=JyKA" target="_blank">https://bit.ly/36O46Uu</a></td>
     <td>SSR和v2Ray</td>
   </tr>
   <tr>
