@@ -12,25 +12,25 @@
     <td>STC</td>
     <td>速度快，稳定</td>
     <td><a href="https://mqk4azjxg8skg6gfelpb.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">https://bit.ly/3kGHl9H</a></td>
-    <td>SSR和v2Ray</td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>KULI</td>
     <td>速度快，有免费试用</td>
     <td><a href="https://bit.ly/3aP4T90" target="_blank">https://bit.ly/3aP4T90</a></td>
-    <td>SSR和v2Ray</td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>科学云</td>
     <td>流量多，有免费试用</td>
     <td><a href="https://bit.ly/32cEEXy" target="_blank">https://bit.ly/32cEEXy</a></td>
-    <td>SSR和v2Ray</td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>速鹰666</td>
+    <td>极客云</td>
     <td>流量多，速度快</td>
-    <td><a href="https://bit.ly/3cwghaO" target="_blank">https://bit.ly/3cwghaO</a></td>
-    <td>SSR和v2Ray</td>
+    <td><a href="https://bit.ly/3pVyVPx" target="_blank">https://bit.ly/3pVyVPx</a></td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>跑路云</td>
@@ -42,13 +42,13 @@
     <td>最速云</td>
     <td>速度快，有免费试用</td>
     <td><a href="https://bit.ly/2EmNDfj" target="_blank">https://bit.ly/2EmNDfj</a></td>
-    <td>SSR和v2Ray</td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>筋斗云</td>
     <td>速度快，有免费试用</td>
     <td><a href="https://bit.ly/37K1zKM" target="_blank">https://bit.ly/37K1zKM</a></td>
-    <td>SSR和v2Ray</td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>崽崽云</td>
@@ -60,13 +60,13 @@
     <td>闪电</td>
     <td>价格低，有免费试用</td>
     <td><a href="https://freemycloud.me/auth/register?code=JyKA" target="_blank">https://bit.ly/36O46Uu</a></td>
-    <td>SSR和v2Ray</td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>XIXI</td>
     <td>速度快</td>
     <td><a href="https://bit.ly/2XEFiL0" target="_blank">https://bit.ly/2XEFiL0</a></td>
-    <td>SSR和v2Ray</td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>追风岛</td>
@@ -78,7 +78,7 @@
     <td>优云666</td>
     <td>速度快</td>
     <td><a href="https://bit.ly/3itqy9k" target="_blank">https://bit.ly/3itqy9k</a></td>
-    <td>SSR和v2Ray</td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td colspan="4">*网址如果打不开请开启“全局模式“翻墙打开。<br>
