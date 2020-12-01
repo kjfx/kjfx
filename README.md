@@ -81,6 +81,12 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
+    <td>Blinklaod</td>
+    <td>IEPL专线机场，稳定</td>
+    <td><a href="https://blinkload.to/aff/RyT5" target="_blank">http://blink.kjfx.site</a></td>
+    <td>IEPL专线节点</td>
+  </tr>
+  <tr>
     <td colspan="4">*网址如果打不开请开启“全局模式“翻墙打开。<br>
     *机场网站有时会更新，请以网站显示信息为准。<br>
     YouTube搜索：《科技分享》查看更多翻墙教程。<br></td>
