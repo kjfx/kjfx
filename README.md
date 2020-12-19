@@ -21,9 +21,9 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>科学云</td>
+    <td>萌新云</td>
     <td>流量多，有免费试用</td>
-    <td><a href="https://bit.ly/32cEEXy" target="_blank">https://bit.ly/32cEEXy</a></td>
+    <td><a href="https://bit.ly/2SGivvl" target="_blank">https://bit.ly/2SGivvl</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -39,10 +39,10 @@
     <td>SSR</td>
   </tr>
   <tr>
-    <td>最速云</td>
-    <td>速度快，有免费试用</td>
-    <td><a href="https://bit.ly/2EmNDfj" target="_blank">https://bit.ly/2EmNDfj</a></td>
-    <td>SSR和V2ray</td>
+    <td>VeePN</td>
+    <td>无限流量，价格低</td>
+    <td><a href="https://bit.ly/2KCK0Fl" target="_blank">https://bit.ly/2KCK0Fl</a></td>
+    <td>VPN一键连接</td>
   </tr>
   <tr>
     <td>筋斗云</td>
@@ -51,9 +51,9 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>崽崽云</td>
+    <td>云网</td>
     <td>速度快，有免费试用</td>
-    <td><a href="https://bit.ly/33DP3v4" target="_blank">https://bit.ly/33DP3v4</a></td>
+    <td><a href="https://bit.ly/2VtQtV1" target="_blank">https://bit.ly/2VtQtV1</a></td>
     <td>V2Ray</td>
   </tr>
   <tr>
