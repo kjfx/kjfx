@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>STC</td>
-    <td>速度快，稳定</td>
+    <td>速度快，稳定， IPLC节点 </td>
     <td><a href="https://mqk4azjxg8skg6gfelpb.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">https://bit.ly/3kGHl9H</a></td>
     <td>SSR和V2ray</td>
   </tr>
@@ -51,12 +51,6 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>云网</td>
-    <td>速度快，有免费试用</td>
-    <td><a href="https://bit.ly/2VtQtV1" target="_blank">https://bit.ly/2VtQtV1</a></td>
-    <td>V2Ray</td>
-  </tr>
-  <tr>
     <td>闪电</td>
     <td>价格低，有免费试用</td>
     <td><a href="https://freemycloud.me/auth/register?code=JyKA" target="_blank">https://bit.ly/36O46Uu</a></td>
@@ -65,7 +59,7 @@
   <tr>
     <td>XIXI</td>
     <td>速度快</td>
-    <td><a href="https://bit.ly/2XEFiL0" target="_blank">https://bit.ly/2XEFiL0</a></td>
+    <td><a href="https://bit.ly/3kJzjNz" target="_blank">https://bit.ly/3kJzjNz</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -77,7 +71,7 @@
   <tr>
     <td>优云666</td>
     <td>速度快</td>
-    <td><a href="https://bit.ly/3itqy9k" target="_blank">https://bit.ly/3itqy9k</a></td>
+    <td><a href="https://bit.ly/2LeMaLD" target="_blank">https://bit.ly/2LeMaLD</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
