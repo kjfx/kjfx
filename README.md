@@ -3,10 +3,10 @@
     <td colspan="4" align="center"><h2>机场网站导航(精选)</h2></td>
   </tr>
   <tr>
-    <td width="133" bgcolor="#00CCFF"><strong>机场名称</strong></td>
-    <td width="228" bgcolor="#00CCFF"><strong>机场特点</strong></td>
-    <td width="269" bgcolor="#00CCFF"><strong>机场网址</strong></td>
-    <td width="280" bgcolor="#00CCFF"><strong>机场节点</strong></td>
+    <td width="215" bgcolor="#00CCFF"><strong>机场名称</strong></td>
+    <td width="424" bgcolor="#00CCFF"><strong>机场特点</strong></td>
+    <td width="359" bgcolor="#00CCFF"><strong>机场网址</strong></td>
+    <td width="441" bgcolor="#00CCFF"><strong>机场节点</strong></td>
   </tr>
   <tr>
     <td>STC</td>
