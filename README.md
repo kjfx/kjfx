@@ -18,12 +18,12 @@
     <td>KULI</td>
     <td>速度快，有免费试用</td>
     <td><a href="https://bit.ly/3aP4T90" target="_blank">https://bit.ly/3aP4T90</a></td>
-    <td>SSR和V2ray</td>
+    <td>V2ray</td>
   </tr>
   <tr>
     <td>萌新云</td>
     <td>流量多，有免费试用</td>
-    <td><a href="https://bit.ly/2SGivvl" target="_blank">https://bit.ly/2SGivvl</a></td>
+    <td><a href="https://bit.ly/3wZAiQ5" target="_blank">https://bit.ly/3wZAiQ5</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
