@@ -75,9 +75,9 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>火箭777</td>
-    <td>性价比高，有免费试用</td>
-    <td><a href="https://bit.ly/37Rgaoc" target="_blank">https://bit.ly/37Rgaoc</a></td>
+    <td>桔子云</td>
+    <td>性价比高</td>
+    <td><a href="https://juzi66.com/auth/register?code=3HN1" target="_blank">https://bit.ly/3vMMK5r</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
