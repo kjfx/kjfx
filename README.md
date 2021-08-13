@@ -23,7 +23,7 @@
   <tr>
     <td>萌新云</td>
     <td>流量多，有免费试用</td>
-    <td><a href="https://bit.ly/3wZAiQ5" target="_blank">https://bit.ly/3wZAiQ5</a></td>
+    <td><a href="https://bit.ly/3g0hham" target="_blank">https://bit.ly/3g0hham</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -43,12 +43,6 @@
     <td>无限流量，价格低</td>
     <td><a href="https://bit.ly/2KCK0Fl" target="_blank">https://bit.ly/2KCK0Fl</a></td>
     <td>VPN一键连接</td>
-  </tr>
-  <tr>
-    <td>筋斗云</td>
-    <td>速度快，有免费试用</td>
-    <td><a href="https://bit.ly/37K1zKM" target="_blank">https://bit.ly/37K1zKM</a></td>
-    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>闪电</td>
