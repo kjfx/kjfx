@@ -33,10 +33,10 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>跑路云</td>
-    <td>流量多，有免费试用</td>
-    <td><a href="https://bit.ly/3bk06Np" target="_blank">https://bit.ly/3bk06Np</a></td>
-    <td>SSR</td>
+    <td>Fast Fish</td>
+    <td>流量多，速度快</td>
+    <td><a href="https://bit.ly/2OAidUN" target="_blank">https://bit.ly/2OAidUN</a></td>
+    <td>V2ray</td>
   </tr>
   <tr>
     <td>VeePN</td>
