@@ -11,7 +11,7 @@
   <tr>
     <td>STC</td>
     <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://mqk4azjxg8skg6gfelpb.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">https://bit.ly/3kGHl9H</a></td>
+    <td><a href="https://xbnfie4u6yjh3wye4zmr.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">https://bit.ly/305Ujtn</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
   <tr>
     <td>桔子云</td>
     <td>性价比高</td>
-    <td><a href="https://juzi69.com/auth/register?code=3HN1" target="_blank">https://bit.ly/3vMMK5r</a></td>
+    <td><a href="https://juzi66.com/auth/register?code=3HN1" target="_blank">https://bit.ly/3vMMK5r</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
