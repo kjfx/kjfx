@@ -35,7 +35,7 @@
   <tr>
     <td>Fast Fish</td>
     <td>流量多，速度快</td>
-    <td><a href="https://bit.ly/2OAidUN" target="_blank">https://bit.ly/2OAidUN</a></td>
+    <td><a href="https://bit.ly/30lI8s5" target="_blank">https://bit.ly/30lI8s5</a></td>
     <td>V2ray</td>
   </tr>
   <tr>
