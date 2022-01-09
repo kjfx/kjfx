@@ -17,7 +17,7 @@
   <tr>
     <td>KULI</td>
     <td>速度快，有免费试用</td>
-    <td><a href="https://bit.ly/3xyOPUq" target="_blank">https://bit.ly/3xyOPUq</a></td>
+    <td><a href="https://bit.ly/3zMUnvB" target="_blank">https://bit.ly/3zMUnvB</a></td>
     <td>V2ray</td>
   </tr>
   <tr>
