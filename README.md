@@ -15,10 +15,10 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>KULI</td>
-    <td>速度快，有免费试用</td>
-    <td><a href="https://bit.ly/3zMUnvB" target="_blank">https://bit.ly/3zMUnvB</a></td>
-    <td>V2ray</td>
+    <td>GaCloud</td>
+    <td>速度快，原生IP解锁奈飞</td>
+    <td><a href="https://bit.ly/3zKwXqS" target="_blank">https://bit.ly/3zKwXqS</a></td>
+    <td>SS</td>
   </tr>
   <tr>
     <td>萌新云</td>
@@ -29,7 +29,7 @@
   <tr>
     <td>极客云</td>
     <td>流量多，速度快</td>
-    <td><a href="https://bit.ly/3pVyVPx" target="_blank">https://bit.ly/3pVyVPx</a></td>
+    <td><a href="https://bit.ly/3tTPgbX" target="_blank">https://bit.ly/3tTPgbX</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
   <tr>
     <td>闪电</td>
     <td>价格低，有免费试用</td>
-    <td><a href="https://freemycloud.me/auth/register?code=JyKA" target="_blank">https://bit.ly/36O46Uu</a></td>
+    <td><a href="https://bit.ly/2PE1TWJ" target="_blank">https://bit.ly/2PE1TWJ</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
