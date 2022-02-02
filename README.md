@@ -71,7 +71,7 @@
   <tr>
     <td>桔子云</td>
     <td>性价比高</td>
-    <td><a href="https://juzi66.com/auth/register?code=3HN1" target="_blank">https://bit.ly/3vMMK5r</a></td>
+    <td><a href="https://juziyun66.com/auth/register?code=3HN1" target="_blank">https://bit.ly/34qgJaD</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
