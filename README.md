@@ -57,9 +57,9 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>追风岛</td>
+    <td>老船长</td>
     <td>价格低，流量超多</td>
-    <td><a href="https://bit.ly/32UbJuf" target="_blank">https://bit.ly/32UbJuf</a></td>
+    <td><a href="https://bit.ly/3mFHLQX" target="_blank">https://bit.ly/3mFHLQX</a></td>
     <td>V2Ray</td>
   </tr>
   <tr>
