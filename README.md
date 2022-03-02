@@ -16,27 +16,27 @@
   </tr>
   <tr>
     <td>GaCloud</td>
-    <td>速度快，原生IP解锁奈飞</td>
+    <td>速度快，原生IP支持奈飞非自制剧</td>
     <td><a href="https://bit.ly/3zKwXqS" target="_blank">https://bit.ly/3zKwXqS</a></td>
     <td>SS</td>
   </tr>
   <tr>
     <td>萌新云</td>
-    <td>流量多，有免费试用</td>
+    <td>有免费试用</td>
     <td><a href="https://bit.ly/3g0hham" target="_blank">https://bit.ly/3g0hham</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>极客云</td>
-    <td>流量多，速度快</td>
+    <td>实惠</td>
     <td><a href="https://bit.ly/3tTPgbX" target="_blank">https://bit.ly/3tTPgbX</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>Fast Fish</td>
-    <td>流量多，速度快</td>
+    <td>实惠</td>
     <td><a href="https://bit.ly/30lI8s5" target="_blank">https://bit.ly/30lI8s5</a></td>
-    <td>V2ray</td>
+    <td>Trojan</td>
   </tr>
   <tr>
     <td>VeePN</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>XIXI</td>
-    <td>速度快</td>
+    <td>实惠</td>
     <td><a href="https://bit.ly/3kJzjNz" target="_blank">https://bit.ly/3kJzjNz</a></td>
     <td>SSR和V2ray</td>
   </tr>
