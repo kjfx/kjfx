@@ -46,9 +46,9 @@
   </tr>
   <tr>
     <td>闪电</td>
-    <td>价格低，有免费试用</td>
-    <td><a href="https://bit.ly/2PE1TWJ" target="_blank">https://bit.ly/2PE1TWJ</a></td>
-    <td>SSR和V2ray</td>
+    <td>价格低</td>
+    <td><a href="https://bit.ly/36VJQE4" target="_blank">https://bit.ly/36VJQE4</a></td>
+    <td>SS</td>
   </tr>
   <tr>
     <td>XIXI</td>
