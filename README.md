@@ -1,6 +1,6 @@
 <table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
-    <td colspan="4" align="center"><h2>2022机场推荐(精选)</h2></td>
+    <td colspan="4" align="center"><h2>2022机场推荐(精选) - 科技分享</h2></td>
   </tr>
   <tr>
     <td width="215" bgcolor="#00CCFF"><strong>机场名称</strong></td>
@@ -80,6 +80,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4">翻墙软件下载：<a href="https://github.com/Kejifaxian/welcome/" target="_blank">https://github.com/Kejifaxian/welcome/</a></td>
+    <td colspan="4">翻墙软件下载：<a href="https://github.com/Kejifaxian/welcome/" target="_blank">https://github.com/Kejifaxian/welcome/</a><br>
+机场推荐 Telegram：<a href="https://t.me/kejifenxiang" target="_blank">@kejifenxiang</a></td>
   </tr>
 </table>
