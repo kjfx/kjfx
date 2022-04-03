@@ -1,6 +1,6 @@
 <table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
-    <td colspan="4" align="center"><h2>机场网站导航(精选)</h2></td>
+    <td colspan="4" align="center"><h2>2022机场推荐(精选)</h2></td>
   </tr>
   <tr>
     <td width="215" bgcolor="#00CCFF"><strong>机场名称</strong></td>
