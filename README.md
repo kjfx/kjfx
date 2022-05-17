@@ -18,7 +18,7 @@
     <td>GaCloud</td>
     <td>速度快，原生IP支持奈飞非自制剧</td>
     <td><a href="https://bit.ly/3zKwXqS" target="_blank">https://bit.ly/3zKwXqS</a></td>
-    <td>SS</td>
+    <td>SS/V2ray/SSR</td>
   </tr>
   <tr>
     <td>萌新云</td>
@@ -45,9 +45,9 @@
     <td>VPN一键连接</td>
   </tr>
   <tr>
-    <td>闪电</td>
-    <td>价格低</td>
-    <td><a href="https://bit.ly/36VJQE4" target="_blank">https://bit.ly/36VJQE4</a></td>
+    <td>Flyint飞数</td>
+    <td>速度快，按量购买</td>
+    <td><a href="https://bit.ly/3lVyhPR" target="_blank">https://bit.ly/3lVyhPR</a></td>
     <td>SS</td>
   </tr>
   <tr>
