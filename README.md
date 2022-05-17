@@ -33,10 +33,10 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>Fast Fish</td>
+    <td>速鹰666</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/30lI8s5" target="_blank">https://bit.ly/30lI8s5</a></td>
-    <td>Trojan</td>
+    <td><a href="https://bit.ly/36QJYEZ" target="_blank">https://bit.ly/36QJYEZ</a></td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>VeePN</td>
