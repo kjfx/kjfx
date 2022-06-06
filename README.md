@@ -35,7 +35,7 @@
   <tr>
     <td>速鹰666</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/36QJYEZ" target="_blank">https://bit.ly/36QJYEZ</a></td>
+    <td><a href="https://bit.ly/3GUjm3D" target="_blank">https://bit.ly/3GUjm3D</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -47,13 +47,13 @@
   <tr>
     <td>Flyint飞数</td>
     <td>速度快，按量购买</td>
-    <td><a href="https://bit.ly/3lVyhPR" target="_blank">https://bit.ly/3lVyhPR</a></td>
+    <td><a href="https://bit.ly/3MUQRFi" target="_blank">https://bit.ly/3MUQRFi</a></td>
     <td>SS</td>
   </tr>
   <tr>
     <td>XIXI</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/3kJzjNz" target="_blank">https://bit.ly/3kJzjNz</a></td>
+    <td><a href="https://bit.ly/3GSZ5vm" target="_blank">https://bit.ly/3GSZ5vm</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
   <tr>
     <td>优云666</td>
     <td>速度快</td>
-    <td><a href="https://bit.ly/2LeMaLD" target="_blank">https://bit.ly/2LeMaLD</a></td>
+    <td><a href="https://bit.ly/3xjXuLL" target="_blank">https://bit.ly/3xjXuLL</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
