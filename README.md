@@ -11,7 +11,7 @@
   <tr>
     <td>STC</td>
     <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://dyu7.stcserver-cloud.com/auth/register?code=9wdD" target="_blank">https://bit.ly/3IsHevV</a></td>
+    <td><a href="https://www1.gardenparty.me/auth/register?code=9wdD" target="_blank">https://bit.ly/3PDImzW</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
