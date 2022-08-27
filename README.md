@@ -29,7 +29,7 @@
   <tr>
     <td>极客云</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/3tTPgbX" target="_blank">https://bit.ly/3tTPgbX</a></td>
+    <td><a href="https://bit.ly/3KoYH9w" target="_blank">https://bit.ly/3KoYH9w</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
   <tr>
     <td>优云666</td>
     <td>速度快</td>
-    <td><a href="https://bit.ly/3xjXuLL" target="_blank">https://bit.ly/3xjXuLL</a></td>
+    <td><a href="https://bit.ly/3wzwRSB" target="_blank">https://bit.ly/3wzwRSB</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
