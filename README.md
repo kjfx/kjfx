@@ -17,7 +17,7 @@
   <tr>
     <td>GaCloud</td>
     <td>速度快，原生IP支持奈飞非自制剧</td>
-    <td><a href="https://bit.ly/3zKwXqS" target="_blank">https://bit.ly/3zKwXqS</a></td>
+    <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
     <td>SS/V2ray/SSR</td>
   </tr>
   <tr>
