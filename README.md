@@ -15,7 +15,7 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>GaCloud</td>
+    <td>WgetCloud</td>
     <td>速度快，原生IP支持奈飞非自制剧</td>
     <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
     <td>SS/V2ray/SSR</td>
