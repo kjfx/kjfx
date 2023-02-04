@@ -1,6 +1,6 @@
 <table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
-    <td colspan="4" align="center"><h2>2022机场推荐(精选) - 科技分享</h2></td>
+    <td colspan="4" align="center"><h2>2023机场推荐(精选) - 科技分享</h2></td>
   </tr>
   <tr>
     <td width="215" bgcolor="#00CCFF"><strong>机场名称</strong></td>
@@ -39,9 +39,9 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>VeePN</td>
-    <td>无限流量，价格低</td>
-    <td><a href="https://bit.ly/2KCK0Fl" target="_blank">https://bit.ly/2KCK0Fl</a></td>
+    <td>ExpressVPN</td>
+    <td>无限流量</td>
+    <td><a href="http://bit.ly/3DEkXKB" target="_blank">http://bit.ly/3DEkXKB</a></td>
     <td>VPN一键连接</td>
   </tr>
   <tr>
