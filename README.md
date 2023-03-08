@@ -51,10 +51,10 @@
     <td>SS</td>
   </tr>
   <tr>
-    <td>XIXI</td>
-    <td>实惠</td>
-    <td><a href="https://bit.ly/3GSZ5vm" target="_blank">https://bit.ly/3GSZ5vm</a></td>
-    <td>SSR和V2ray</td>
+    <td>回国VPN</td>
+    <td>海外回国专用</td>
+    <td><a href="https://www.transocks.com/payment?affiliate-code=wzba3ga" target="_blank">点击打开>></a></td>
+    <td>VPN一键连接</td>
   </tr>
   <tr>
     <td>追风岛</td>
