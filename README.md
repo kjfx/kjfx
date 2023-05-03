@@ -41,7 +41,7 @@
   <tr>
     <td>VeePN</td>
     <td>无限流量</td>
-    <td><a href="https://veepn.com/zh/" target="_blank">https://veepn.com/zh/</a>（优惠码：KJFX）</td>
+    <td><a href="https://veepn.com/zh/" target="_blank">点击打开>></a>（优惠码：KJFX）</td>
     <td>VPN一键连接</td>
   </tr>
   <tr>
