@@ -18,13 +18,13 @@
     <td>WgetCloud</td>
     <td>速度快，原生IP支持奈飞非自制剧</td>
     <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
-    <td>SS/V2ray/SSR</td>
+    <td>Trojan/V2ray/SSR</td>
   </tr>
   <tr>
-    <td>萌新云</td>
-    <td>有免费试用</td>
-    <td><a href="https://bit.ly/3g0hham" target="_blank">https://bit.ly/3g0hham</a></td>
-    <td>V2ray</td>
+    <td>飞机云</td>
+    <td>节点多</td>
+    <td><a href="https://bit.ly/45jcEiI" target="_blank">https://bit.ly/45jcEiI</a></td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>极客云</td>
@@ -51,10 +51,10 @@
     <td>SS</td>
   </tr>
   <tr>
-    <td>回国VPN</td>
-    <td>海外回国专用</td>
-    <td><a href="https://www.transocks.com/payment?affiliate-code=wzba3ga" target="_blank">点击打开>></a></td>
-    <td>VPN一键连接</td>
+    <td>叮当云</td>
+    <td>免费试用</td>
+    <td><a href="https://bit.ly/3PypaGr" target="_blank">https://bit.ly/3PypaGr</a></td>
+    <td>V2Ray</td>
   </tr>
   <tr>
     <td>追风岛</td>
