@@ -39,9 +39,9 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
-    <td>VeePN</td>
+    <td>ExpressVPN</td>
     <td>无限流量</td>
-    <td><a href="https://veepn.com/zh/" target="_blank">点击打开>></a>（优惠码：KJFX）</td>
+    <td><a href="http://bit.ly/3DEkXKB" target="_blank">http://bit.ly/3DEkXKB</a></td>
     <td>VPN一键连接</td>
   </tr>
   <tr>
