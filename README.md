@@ -53,7 +53,7 @@
   <tr>
     <td>叮当云</td>
     <td>免费试用</td>
-    <td><a href="https://bit.ly/3PypaGr" target="_blank">https://bit.ly/3PypaGr</a></td>
+    <td><a href="https://bit.ly/40LRjx9" target="_blank">https://bit.ly/40LRjx9</a></td>
     <td>V2Ray</td>
   </tr>
   <tr>
