@@ -11,7 +11,7 @@
   <tr>
     <td>STC</td>
     <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://8va3.gardenparty.me/auth/register?code=9wdD" target="_blank">https://bit.ly/456cFpI</a></td>
+    <td><a href="https://3vcv.gardenparty.me/auth/register?code=9wdD" target="_blank">https://bit.ly/3RKKAiW</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
