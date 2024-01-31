@@ -41,7 +41,7 @@
   <tr>
     <td>ExpressVPN</td>
     <td>无限流量</td>
-    <td><a href="http://bit.ly/3DEkXKB" target="_blank">http://bit.ly/3DEkXKB</a></td>
+    <td><a href="https://bit.ly/48TRNVl" target="_blank">https://bit.ly/48TRNVl</a></td>
     <td>VPN一键连接</td>
   </tr>
   <tr>
