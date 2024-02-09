@@ -47,7 +47,7 @@
   <tr>
     <td>Flyint飞数</td>
     <td>速度快，按量购买</td>
-    <td><a href="https://bit.ly/42uM3gV" target="_blank">https://bit.ly/42uM3gV</a></td>
+    <td><a href="https://bit.ly/4byScy2" target="_blank">https://bit.ly/4byScy2</a></td>
     <td>SS</td>
   </tr>
   <tr>
