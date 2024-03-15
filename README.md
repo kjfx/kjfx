@@ -11,7 +11,7 @@
   <tr>
     <td>STC</td>
     <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://7tr5.gardenparty.me/auth/register?code=9wdD" target="_blank">https://bit.ly/3UZ0ytc</a></td>
+    <td><a href="https://acx3.gardenparty.me/auth/register?code=9wdD" target="_blank">https://bit.ly/3VleFsW</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -53,13 +53,13 @@
   <tr>
     <td>叮当云</td>
     <td>免费试用</td>
-    <td><a href="https://bit.ly/40LRjx9" target="_blank">https://bit.ly/40LRjx9</a></td>
+    <td><a href="https://bit.ly/3Hzgw5b" target="_blank">https://bit.ly/3Hzgw5b</a></td>
     <td>V2Ray</td>
   </tr>
   <tr>
     <td>追风岛</td>
     <td>价格低，流量超多</td>
-    <td><a href="https://bit.ly/3In6YL4" target="_blank">https://bit.ly/3In6YL4</a></td>
+    <td><a href="https://bit.ly/49cBySR" target="_blank">https://bit.ly/49cBySR</a></td>
     <td>V2Ray</td>
   </tr>
   <tr>
