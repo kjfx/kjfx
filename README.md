@@ -59,7 +59,7 @@
   <tr>
     <td>追风岛</td>
     <td>价格低，流量超多</td>
-    <td><a href="https://bit.ly/3xwDOH4" target="_blank">https://bit.ly/3xwDOH4</a></td>
+    <td><a href="https://bit.ly/49U2W8f" target="_blank">https://bit.ly/49U2W8f</a></td>
     <td>V2Ray</td>
   </tr>
   <tr>
