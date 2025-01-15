@@ -11,7 +11,7 @@
   <tr>
     <td>STC</td>
     <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://acids.stc-spare1.com/auth/register?code=9wdD" target="_blank">https://bit.ly/3Ms8iOF</a></td>
+    <td><a href="https://apiac.stc-spare1.com/auth/register?code=9wdD" target="_blank">https://bit.ly/3Ms8iOF</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
