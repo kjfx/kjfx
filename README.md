@@ -1,11 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>无标题文档</title>
-</head>
-
-<body>
 <table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
     <td colspan="4" align="center"><h2>2025机场推荐(精选) - 科技分享</h2></td>
@@ -92,6 +84,3 @@
 机场推荐 Telegram：<a href="https://t.me/kejifenxiang" target="_blank">@kejifenxiang</a></td>
   </tr>
 </table>
-
-</body>
-</html>
