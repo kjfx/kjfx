@@ -1,3 +1,11 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
 <table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
     <td colspan="4" align="center"><h2>2025机场推荐(精选) - 科技分享</h2></td>
@@ -45,10 +53,10 @@
     <td>VPN一键连接</td>
   </tr>
   <tr>
-    <td>Flyint飞数</td>
-    <td>速度快，按量购买</td>
-    <td><a href="https://bit.ly/4byScy2" target="_blank">https://bit.ly/4byScy2</a></td>
-    <td>SS</td>
+    <td>Mitce</td>
+    <td>便宜机场，速度快</td>
+    <td><a href="https://bit.ly/4butRKs" target="_blank">https://bit.ly/4butRKs</a></td>
+    <td>hysteria2</td>
   </tr>
   <tr>
     <td>NaiU_Net</td>
@@ -84,3 +92,6 @@
 机场推荐 Telegram：<a href="https://t.me/kejifenxiang" target="_blank">@kejifenxiang</a></td>
   </tr>
 </table>
+
+</body>
+</html>
