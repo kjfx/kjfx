@@ -47,7 +47,7 @@
   <tr>
     <td>Mitce</td>
     <td>便宜机场，速度快</td>
-    <td><a href="https://bit.ly/4butRKs" target="_blank">https://bit.ly/4butRKs</a></td>
+    <td><a href="https://bit.ly/4jfLX5V" target="_blank">https://bit.ly/4jfLX5V</a></td>
     <td>hysteria2</td>
   </tr>
   <tr>
