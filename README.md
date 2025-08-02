@@ -9,16 +9,16 @@
     <td width="441" bgcolor="#00CCFF"><strong>机场节点</strong></td>
   </tr>
   <tr>
+    <td>WgetCloud</td>
+    <td>速度快，原生IP支持奈飞非自制剧</td>
+    <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
+    <td>Trojan/SSR</td>
+  </tr>
+  <tr>
     <td>STC</td>
     <td>速度快，稳定， IPLC节点 </td>
     <td><a href="https://kjfx.github.io/stc" target="_blank">https://kjfx.github.io/stc</a></td>
     <td>SSR和V2ray</td>
-  </tr>
-  <tr>
-    <td>WgetCloud</td>
-    <td>速度快，原生IP支持奈飞非自制剧</td>
-    <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
-    <td>Trojan/V2ray/SSR</td>
   </tr>
   <tr>
     <td>飞机云</td>
