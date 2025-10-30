@@ -74,6 +74,12 @@
     <td><a href="https://bit.ly/42e4n10" target="_blank">https://bit.ly/42e4n10</a></td>
     <td>SSR和V2ray</td>
   </tr>
+    <tr>
+    <td>XMRth</td>
+    <td>性价比高</td>
+    <td><a href="https://bit.ly/45978A8" target="_blank">https://bit.ly/45978A8</a></td>
+    <td>Trojan</td>
+  </tr>
   <tr>
     <td colspan="4">*网址如果打不开请开启“全局模式“翻墙打开。<br>
     *机场网站有时会更新，请以网站显示信息为准。<br>
