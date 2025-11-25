@@ -23,19 +23,19 @@
   <tr>
     <td>飞机云</td>
     <td>节点多</td>
-    <td><a href="https://bit.ly/45jcEiI" target="_blank">https://bit.ly/45jcEiI</a></td>
+    <td><a href="https://bit.ly/4imuCsf" target="_blank">https://bit.ly/4imuCsf</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>极客云</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/3KoYH9w" target="_blank">https://bit.ly/3KoYH9w</a></td>
+    <td><a href="https://bit.ly/4pr1kLl" target="_blank">https://bit.ly/4pr1kLl</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>速鹰666</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/3euEILd" target="_blank">https://bit.ly/3euEILd</a></td>
+    <td><a href="https://bit.ly/4kvDs6T" target="_blank">https://bit.ly/4kvDs6T</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -65,20 +65,20 @@
   <tr>
     <td>优云666</td>
     <td>速度快</td>
-    <td><a href="https://bit.ly/3wzwRSB" target="_blank">https://bit.ly/3wzwRSB</a></td>
+    <td><a href="https://bit.ly/3JWShTz" target="_blank">https://bit.ly/3JWShTz</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>桔子云</td>
     <td>性价比高</td>
-    <td><a href="https://bit.ly/42e4n10" target="_blank">https://bit.ly/42e4n10</a></td>
+    <td><a href="https://bit.ly/4ogSizF" target="_blank">https://bit.ly/4ogSizF</a></td>
     <td>SSR和V2ray</td>
   </tr>
     <tr>
     <td>XMRth</td>
     <td>性价比高</td>
     <td><a href="https://bit.ly/45978A8" target="_blank">https://bit.ly/45978A8</a></td>
-    <td>Trojan</td>
+    <td>Trojan/V2ray</td>
   </tr>
   <tr>
     <td colspan="4">*网址如果打不开请开启“全局模式“翻墙打开。<br>
