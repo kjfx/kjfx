@@ -35,7 +35,7 @@
   <tr>
     <td>速鹰666</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/4kvDs6T" target="_blank">https://bit.ly/4kvDs6T</a></td>
+    <td><a href="https://bit.ly/4aYC0rY" target="_blank">https://bit.ly/4aYC0rY</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@
   <tr>
     <td>NaiU_Net</td>
     <td>速度快</td>
-    <td><a href="https://kjxx.cc/naiu" target="_blank">https://bit.ly/3Bu3er8</a></td>
+    <td><a href="https://bit.ly/46MaP0S" target="_blank">https://bit.ly/46MaP0S</a></td>
     <td>Trojan</td>
   </tr>
   <tr>
@@ -65,13 +65,13 @@
   <tr>
     <td>优云666</td>
     <td>速度快</td>
-    <td><a href="https://bit.ly/3JWShTz" target="_blank">https://bit.ly/3JWShTz</a></td>
+    <td><a href="https://bit.ly/4bvFkLb" target="_blank">https://bit.ly/4bvFkLb</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>桔子云</td>
     <td>性价比高</td>
-    <td><a href="https://bit.ly/4ogSizF" target="_blank">https://bit.ly/4ogSizF</a></td>
+    <td><a href="https://bit.ly/4reNQTv" target="_blank">https://bit.ly/4reNQTv</a></td>
     <td>SSR和V2ray</td>
   </tr>
     <tr>
