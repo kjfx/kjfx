@@ -35,7 +35,7 @@
   <tr>
     <td>速鹰666</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/4aYC0rY" target="_blank">https://bit.ly/4aYC0rY</a></td>
+    <td><a href="https://bit.ly/4f4WCRM" target="_blank">https://bit.ly/4f4WCRM</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
