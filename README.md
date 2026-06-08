@@ -80,6 +80,12 @@
     <td><a href="https://bit.ly/45978A8" target="_blank">https://bit.ly/45978A8</a></td>
     <td>Trojan/V2ray</td>
   </tr>
+    <tr>
+    <td>全球云</td>
+    <td>速度快</td>
+    <td><a href="https://bit.ly/4afhBxS" target="_blank">https://bit.ly/4afhBxS</a></td>
+    <td>Vless</td>
+  </tr>
   <tr>
     <td colspan="4">*网址如果打不开请开启“全局模式“翻墙打开。<br>
     *机场网站有时会更新，请以网站显示信息为准。<br>
