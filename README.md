@@ -83,7 +83,7 @@
     <tr>
     <td>全球云</td>
     <td>速度快</td>
-    <td><a href="https://bit.ly/4afhBxS" target="_blank">https://bit.ly/4afhBxS</a></td>
+    <td><a href="https://suo.st/Li0WHdv" target="_blank">https://suo.st/Li0WHdv</a></td>
     <td>Vless</td>
   </tr>
   <tr>
