@@ -15,10 +15,10 @@
     <td>Trojan/SSR</td>
   </tr>
   <tr>
-    <td>STC</td>
-    <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://kjfx.github.io/stc" target="_blank">https://kjfx.github.io/stc</a></td>
-    <td>SSR和V2ray</td>
+    <td>快雷GO</td>
+    <td>速度快，有不限时套餐（9折码：aa555）</td>
+    <td><a href="https://kjvm.github.io/kl" target="_blank">https://kjvm.github.io/kl</a></td>
+    <td>Vless</td>
   </tr>
   <tr>
     <td>飞机云</td>
